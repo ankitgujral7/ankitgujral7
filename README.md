@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankitgujral7
-- 👀 I’m interested in making prjects with IOT
+- 👀 I’m interested in making projects with IOT
 - 🌱 I’m currently learning electronics engineering
 - 💞️ I’m looking to collaborate on IOT projects
 - 📫 How to reach me (inst: _a.nkit__)
